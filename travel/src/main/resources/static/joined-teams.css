@@ -1,0 +1,40 @@
+/* Style for body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Style for joined teams container */
+#joined-teams {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for heading */
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+/* Style for team list */
+#joined-teams-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Style for team list items */
+li {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+/* Style for team details
